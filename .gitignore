@@ -1,0 +1,12 @@
+# Ignore build directory
+build/
+
+# Ignore log files
+*.log
+
+# Ignore compiled binaries
+*.exe
+*.out
+
+# Ignore OS-specific files
+.DS_Store
